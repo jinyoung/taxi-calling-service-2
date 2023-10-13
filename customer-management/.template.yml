@@ -1,0 +1,8 @@
+name: Argo
+rating: 5
+imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/1ba67349-4b6a-459d-b861-8b13bb009a13
+templateName: argo
+description: open-source tool for managing and executing workflows and batch jobs on top of Kubernetes.
+depends:
+tags:
+  - DevOps
