@@ -1,8 +1,8 @@
-name: Argo
+name: Github action
 rating: 5
-imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/1ba67349-4b6a-459d-b861-8b13bb009a13
-templateName: argo
-description: open-source tool for managing and executing workflows and batch jobs on top of Kubernetes.
+imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/d8ff35bf-3367-4488-9733-73c7b82670c7
+templateName: github-action
+description: As a CI/CD service, GitHub Actions automates tasks such as testing, building, and deploying based on code changes within a GitHub repository.
 depends:
 tags:
-  - DevOps
+  - Frontend
